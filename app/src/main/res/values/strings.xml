@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppA</string>
+    <string name="link_hint">ссылка на изображение</string>
+    <string name="ok_btn_text">OK</string>
+    <string name="test">тест</string>
+    <string name="history">история</string>
+    <string name="error_message">Приложение В не установлено</string>
+    <string name="sort">сортировка</string>
+    <string name="by_date">По дате</string>
+    <string name="by_status">По статусу</string>
+    <string name="example">example</string>
+</resources>
